@@ -52,7 +52,7 @@ Each phase builds upon the previous one and answers a different business questio
 - Identify missing values and inconsistencies
 - Prepare data for analysis
 - Generate reliable datasets
-- 
+ 
 📦 Deliverable
 Clean and structured dataset ready for analysis
 
