@@ -82,6 +82,7 @@ Contains store characteristics including store type and size.
 - Evaluate regional and store-level differences
   
 📦 Deliverable
+
 - Business-oriented exploratory insights
   
 Key Business Questions Investigated
@@ -110,6 +111,7 @@ Analyzed whether meaningful differences exist between regions and store groups.
 Measured relationships between sales and operational variables.
 
 📦 Deliverable
+
 Statistical evidence supporting business conclusions
 
 ## 🔹 Step 4: Feature Engineering
@@ -138,11 +140,13 @@ Time Features
 - Rolling Sales Average
 
 📦 Deliverable
+
 Enhanced dataset optimized for analysis and predictive modeling
 
 ## 🔹 Step 5: Predictive Modeling
 
 🎯 Objective
+
 - Forecast future sales performance
 - Compare model performance
 - Identify the strongest sales 
@@ -161,6 +165,7 @@ Used to capture more complex patterns and evaluate feature importance.
 - Root Mean Squared Error (RMSE)
 
 📦 Deliverable
+
 - Forecasting models
 - Performance comparison
 - Feature importance analysis
@@ -168,11 +173,13 @@ Used to capture more complex patterns and evaluate feature importance.
 ## 🔹 Step 6: Business Insights and Communication
 
 🎯 Objective
+
 - Transform findings into actionable recommendations
 - Communicate insights through visualizations
 - Support business decision-making
   
 📦 Deliverable
+
 - Executive-ready visualizations
 - Business recommendations
 - Data storytelling outputs
