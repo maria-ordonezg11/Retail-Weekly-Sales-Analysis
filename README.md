@@ -54,18 +54,23 @@ Each phase builds upon the previous one and answers a different business questio
 - Generate reliable datasets
  
 📦 Deliverable
+
 Clean and structured dataset ready for analysis
 
 📂 Project Datasets
+
 The analysis begins with three primary data sources:
 
 📄 sales.csv
+
 Contains historical weekly sales for multiple retail stores and departments.
 
 📄 features.csv
+
 Contains operational variables such as temperature, fuel price, CPI, unemployment rate, and markdown activities.
 
 📄 stores.csv
+
 Contains store characteristics including store type and size.
 
 ## 🔹 Step 2: Exploratory Data Analysis (EDA)
