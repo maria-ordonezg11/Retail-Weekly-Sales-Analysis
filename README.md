@@ -242,14 +242,23 @@ This project demonstrates how data analytics can support strategic retail decisi
 ## 📌 Project Skills Demonstrated
 
  ✅ Data Cleaning & Preparation
+ 
  ✅ Exploratory Data Analysis (EDA)
+ 
  ✅ Statistical Analysis
+ 
  ✅ Feature Engineering
+ 
  ✅ Predictive Modeling
+ 
  ✅ Business Analytics
+ 
  ✅ Data Storytelling
+ 
  ✅ Retail Analytics
+ 
  ✅ Sales Forecasting
+ 
  ✅ Business Recommendation Development
 
  
