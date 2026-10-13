@@ -61,15 +61,15 @@ Clean and structured dataset ready for analysis
 
 The analysis begins with three primary data sources:
 
-📄 sales.csv
+- 📄 sales.csv
 
 Contains historical weekly sales for multiple retail stores and departments.
 
-📄 features.csv
+- 📄 features.csv
 
 Contains operational variables such as temperature, fuel price, CPI, unemployment rate, and markdown activities.
 
-📄 stores.csv
+- 📄 stores.csv
 
 Contains store characteristics including store type and size.
 
@@ -80,10 +80,10 @@ Contains store characteristics including store type and size.
 - Identify seasonal trends
 - Explore sales distributions
 - Evaluate regional and store-level differences
-- 
+  
 📦 Deliverable
 - Business-oriented exploratory insights
-- 
+  
 Key Business Questions Investigated
 - How do weekly sales evolve over time?
 - Are there clear seasonal patterns?
