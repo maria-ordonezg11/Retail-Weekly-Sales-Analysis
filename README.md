@@ -1,24 +1,18 @@
 # Retail-Weekly-Sales-Analysis
 Exploratory Data Analysis and Statistical Insights
-Retail_Weekly_Sales_Analysis/
-│
-├── train.csv
-├── features.csv
-├── stores.csv
-├── Retail_Weekly_Sales_Analysis.ipynb
-├── README.md
-│
-├── visualizations/
-│   ├── weekly_sales_over_time.png
-│   ├── holiday_vs_non_holiday_weekly_sales.png
-│   ├── weekly_sales_by_region.png
-│   ├── monthly_sales_heatmap.png
-│   ├── weekly_sales_vs_markdown_1.png
-│   ├── weekly_sales_vs_markdown_2.png
-│   ├── weekly_sales_vs_markdown_3.png
-│   ├── weekly_sales_vs_markdown_4.png
-│   ├── weekly_sales_vs_markdown_5.png
-│   └── feature_importance.png
-│
-└── outputs/
-    └── model_results.csv
+📊 Retail Weekly Sales Analysis: Exploratory Data Analysis and Statistical Insights
+🧩 Introduction
+
+Retail companies constantly face challenges related to demand forecasting, inventory planning, promotional effectiveness, and resource allocation.
+
+Several key business questions need to be addressed:
+
+What factors have the strongest influence on weekly sales?
+Do holidays significantly impact sales performance?
+Are promotional markdowns generating measurable revenue growth?
+How does sales behavior differ across regions?
+Can future sales be accurately forecasted using historical operational data?
+
+To answer these questions, weekly sales data, store information, and operational features were analyzed using Exploratory Data Analysis (EDA), statistical testing, feature engineering, and machine learning techniques.
+
+The goal of this project is to transform historical sales data into actionable insights that support retail planning, forecasting, and business decision-making.
