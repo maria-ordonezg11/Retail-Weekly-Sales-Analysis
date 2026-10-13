@@ -215,6 +215,62 @@ By the end of this project, the analysis provides:
 - Predictive forecasting capabilities
 - Actionable business recommendations
 
+## 📈 Key Visualizations
+
+### 1. Weekly Sales Over Time
+
+Sales exhibit strong seasonality and significant fluctuations throughout the year, highlighting recurring patterns in customer demand.
+
+visualizations/weekly_sales_over_time.png
+
+### 2. Holiday vs Non-Holiday Weekly Sales
+
+Holiday periods consistently outperform regular weeks, demonstrating the significant impact of seasonal events on retail revenue.
+
+visualizations/holiday_vs_non_holiday_weekly_sales.png
+
+### 3. Weekly Sales by Region
+
+Regional sales comparisons reveal meaningful performance differences, supporting the implementation of localized business strategies.
+
+visualizations/weekly_sales_by_region.png
+
+### 4. Monthly Sales Heatmap
+
+The heatmap highlights seasonal sales patterns and identifies months with peak demand across the retail network.
+
+visualizations/monthly_sales_heatmap.png
+
+### 5. Markdown Impact on Weekly Sales
+
+These visualizations explore the relationship between promotional markdowns and sales performance.
+
+Markdown 1
+
+visualizations/weekly_sales_vs_markdown_1.png
+
+Markdown 2
+
+visualizations/weekly_sales_vs_markdown_2.png
+
+Markdown 3
+
+visualizations/weekly_sales_vs_markdown_3.png
+
+Markdown 4
+
+visualizations/weekly_sales_vs_markdown_4.png
+
+Markdown 5
+
+visualizations/weekly_sales_vs_markdown_5.png
+
+### 6. Feature Importance Analysis
+
+Feature importance analysis revealed that historical sales variables, such as rolling averages and lagged sales, are the strongest predictors of future sales performance.
+
+visualizations/feature_importance.png
+
 ## 💼 Business Impact
 
 This project demonstrates how data analytics can support strategic retail decision-making by:
